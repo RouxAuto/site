@@ -1,3 +1,14 @@
+.logo {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.logo img {
+  height: 40px;
+  width: auto;
+}
+
 body {
   font-family: Arial, sans-serif;
   margin: 0;
